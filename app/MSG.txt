@@ -1,0 +1,6 @@
+{"msg":"Hello World","name":"\u5357\u5c71","key":"6232acf3f03e7","type":"msg"}
+{"msg":"<span><\/span>","type":"sys"}
+{"msg":"<span class=\"tips-warning\">\u901a\u77e5\uff1a<strong>\u6167\u654f\u5416<\/strong>\u8fdb\u5165\u7559\u8a00\u5ba4<\/span>","type":"sys"}
+{"msg":"\u535a\u5ba2\u5f88\u4e0d\u9519\u5416","name":"\u6167\u654f\u5416","key":"6232fb80b94d5","type":"msg"}
+{"msg":"<span><\/span>","type":"sys"}
+{"msg":"<span class=\"tips-warning\">\u901a\u77e5\uff1a<strong>\u5357\u5c71<\/strong>\u8fdb\u5165\u7559\u8a00\u5ba4<\/span>","type":"sys"}
